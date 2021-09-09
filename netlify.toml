@@ -1,5 +1,5 @@
 [build]
-   command = 'npm run-script build'
+   command = 'npm build'
     commandOrigin = 'ui'
     publish =  'F:\cartle-punks\build'
     publishOrigin = 'ui'
