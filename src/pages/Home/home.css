@@ -11,6 +11,9 @@
 .home span {
   color: #c93638;
 }
+.join-community {
+  padding-bottom: 5vh !important;
+}
 .punk-images {
   display: flex;
   justify-content: center;
