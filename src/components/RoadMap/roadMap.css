@@ -1,0 +1,27 @@
+.road-map {
+  color: white;
+  padding-top: 64px;
+  /* width: 70%; */
+  margin: 0 auto;
+  background: #151515;
+  max-width: 1140px;
+  padding-bottom: 64px;
+  text-align: left;
+  padding: 5vh 2vw;
+  box-sizing: border-box;
+}
+@media screen and (max-width: 1200px) {
+  .road-map {
+    width: 960px;
+  }
+}
+@media screen and (max-width: 990px) {
+  .road-map {
+    width: 720px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .road-map {
+    width: 100%;
+  }
+}

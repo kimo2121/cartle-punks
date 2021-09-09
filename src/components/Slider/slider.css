@@ -1,0 +1,20 @@
+.slider-component {
+  color: white;
+  margin: -5px 0;
+}
+.slider-component > div {
+  display: flex;
+  justify-content: center;
+}
+.slider-component img {
+  max-width: 200px;
+  width: 100%;
+  object-fit: contain;
+}
+
+.slick-slide {
+  /* margin: 0 0.3vw !important; */
+}
+.inner-slider {
+  /* width: 200px !important; */
+}

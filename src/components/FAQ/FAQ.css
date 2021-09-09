@@ -1,0 +1,27 @@
+.faq {
+  color: white;
+  padding-top: 64px;
+  /* width: 70%; */
+  margin: 0 auto;
+  background: #151515;
+  max-width: 1140px;
+  box-sizing: border-box;
+  padding: 5vh 2vw;
+  padding-bottom: 64px;
+  text-align: left;
+}
+@media screen and (max-width: 1200px) {
+  .faq {
+    width: 960px;
+  }
+}
+@media screen and (max-width: 990px) {
+  .faq {
+    width: 720px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .faq {
+    width: 100%;
+  }
+}
