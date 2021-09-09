@@ -2,10 +2,7 @@
   color: white;
   margin: -5px 0;
 }
-/* .slider-component > div {
-  display: flex;
-  justify-content: center;
-} */
+
 .slider-component img {
   max-width: 200px;
   width: 100%;
