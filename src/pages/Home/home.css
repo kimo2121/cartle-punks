@@ -192,7 +192,6 @@
     width: fit-content;
   }
   .punk-images {
-    /* display: grid; */
     flex-wrap: wrap;
   }
   .punk-images img {
