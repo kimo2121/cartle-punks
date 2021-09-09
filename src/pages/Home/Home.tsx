@@ -15,8 +15,6 @@ import RoadMap from "../../components/RoadMap/RoadMap";
 import FAQ from "../../components/FAQ/FAQ";
 
 const Home: React.FC = () => {
-  const history = useHistory();
-
   const routeChange = () => {
     window.location.href = "https://discord.com/";
   };
