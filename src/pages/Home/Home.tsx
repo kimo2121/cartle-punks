@@ -64,7 +64,6 @@ const Home: React.FC = () => {
             <img src={punk_311} alt="" />
           </div>
         </div>
-        {/* <img src={punk_303} alt="" className="nothing" /> */}
       </div>
       <MultiSlider />
       <div className="join-community">
