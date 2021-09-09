@@ -18,8 +18,7 @@ const Home: React.FC = () => {
   const history = useHistory();
 
   const routeChange = () => {
-    let path = `https://discord.com/`;
-    history.push(path);
+    window.location.href = "https://discord.com/";
   };
   return (
     <div>
