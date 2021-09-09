@@ -1,5 +1,5 @@
 [build]
-   command = 'yarn build'
+   command = 'npm run-script build'
     commandOrigin = 'ui'
     publish =  'F:\cartle-punks\build'
     publishOrigin = 'ui'
