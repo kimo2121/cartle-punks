@@ -50,7 +50,7 @@ const MultiSlider: React.FC = () => {
     <div className="slider-component">
       <Slider {...settings}>
         {dataImg.map((item, index) => (
-          <div className="inner-slider">
+          <div key={index} className="inner-slider">
             <img key={index} src={item} alt="" />
           </div>
         ))}

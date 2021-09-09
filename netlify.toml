@@ -1,4 +1,5 @@
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
+[build]
+   command = 'yarn build'
+    commandOrigin = 'ui'
+    publish =  'F:\cartle-punks\build'
+    publishOrigin = 'ui'
